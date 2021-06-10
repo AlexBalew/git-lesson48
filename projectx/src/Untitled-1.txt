@@ -1,0 +1,5 @@
+var items = ["pencil", "pen", "gum", "cup"];
+var adj = ["noble", "fckng", "the fastest", "boring"];
+var itemsRandom = items[Math.floor(Math.random() * items.length)];
+var adjRandom = adj[Math.floor(Math.random() * adj.length)];
+var randomWords = itemsRandom + adjRandom;
