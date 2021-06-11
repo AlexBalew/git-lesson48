@@ -11,9 +11,6 @@ const App = () => {
       <Header />
       <Nav />
       <Profile />
-      <div>
-      nothing to say
-    </div>
     </div>
     
   );
