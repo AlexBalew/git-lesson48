@@ -13,20 +13,3 @@ grid-template-columns: 2fr 10fr;
 
 }
 
-.header {
-grid-area: h;
-background-color: rgb(51, 161, 161);
-}
-.header img {
-  width: 50px;
-}
-
-.nav {
-grid-area: n;
-background-color:rgb(71, 51, 161) ;
-}
-
-.content {
-grid-area: c;
-background-color:rgb(161, 159, 51) ;
-}
